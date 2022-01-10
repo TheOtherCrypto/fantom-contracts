@@ -31,9 +31,9 @@ For any question please feel free to reach out on our Telegram channel, we will 
 
 ### Masterchef and Moneypot(s):
 
-- ProtonToken (PROTO): 0x
-- ElectronToken (ELCT): 0x
-- xProtonToken (XPROTO): 0x
+- ProtonToken (PROTO): 0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB
+- ElectronToken (ELCT): 0x622265EaB66A45FA05bAc9B8d2262AA548FA449E
+- xProtonToken (XPROTO): 0x4Cb1b8554347d2eEDdF72bcC0dD0e11373F9B129
 - ProtofiMasterChef: 0x
 - MoneyPot: 0x
 - NFTPool: 0x
