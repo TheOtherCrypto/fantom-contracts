@@ -19,8 +19,10 @@ For any question please feel free to reach out on our Telegram channel, we will 
 ## Deployed Contracts - WIP
 
 ### Presale Contracts:
+
 - PreProtonToken: 0x (Modified version of the audited PolyWantsACracker PLithToken)
 - ProtonRedeemNFT: 0x (Modified version of the audited PolyWantsACracker LithRedeem)
+  
 ### Factory and Router:
 
 - Multicall: 0xA51Fb708a27cd01C96daFaaF8d8985Ecf7F9f31A
@@ -37,4 +39,5 @@ For any question please feel free to reach out on our Telegram channel, we will 
 - NFTPool: 0x
 
 ### NFT:
-- ProtofiNFT: 0x
+
+- ProtofiNFT: 0x1aDB6f30561116B4283169DdD1Ca16ed2A34355A (Thanks to TheFantoms.art)
