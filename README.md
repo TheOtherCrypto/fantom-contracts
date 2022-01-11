@@ -20,8 +20,8 @@ For any question please feel free to reach out on our Telegram channel, we will 
 
 ### Presale Contracts:
 
-- PreProtonToken: 0x (Modified version of the audited PolyWantsACracker PLithToken)
-- ProtonRedeemNFT: 0x (Modified version of the audited PolyWantsACracker LithRedeem)
+- PreProtonToken: 0xe85FafB631fbc8A08eA8048A69984e3D91185588 (Modified version of the audited PolyWantsACracker PLithToken)
+- ProtonRedeemNFT: 0x9a19c1847912418752dAc3eBE57062DDd49F0aBC (Modified version of the audited PolyWantsACracker LithRedeem)
   
 ### Factory and Router:
 
